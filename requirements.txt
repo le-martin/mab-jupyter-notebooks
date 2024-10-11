@@ -1,0 +1,9 @@
+# This file can be created either manually or by using the following command:
+# `pip freeze > requirements.txt`
+#
+# The following lines contains the dependencies, e.g. the Python3 libraries needed to run the Jupyter notebooks in this repository.
+ipywidgets
+matplotlib
+matplotlib-inline
+numpy
+pandas
