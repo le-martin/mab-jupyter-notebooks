@@ -12,7 +12,7 @@ Either use this repository as template or create a complete new repository follo
 4. (Optional) For [embedding a binder badge](#binder-badge) in the `README.md`, [linking a certain Jupyter Notebook](#direct-link-to-jupyter-notebook) or [using custom public data](#add-data-to-your-binder), see below.
 
 ## Binder Badge
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/le-martin/mab-jupyter-notebooks/HEAD?labpath=ucb1_visualizer.ipynb) (Binder badge for `ucb1_visualizer.ipynb` Jupyter notebook)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/le-martin/mab-jupyter-notebooks/HEAD)
 
 ### How to add a binder badge to your README.md
 1. Type in the URL of your Git repository on the [Binder webpage](https://mybinder.org/).
