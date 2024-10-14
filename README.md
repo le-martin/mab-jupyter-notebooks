@@ -4,9 +4,9 @@ This is a collection of Jupyter Notebooks to explain and visualize multi-armed b
 
 ## Quick Instructions
 
-The Jupyter notebooks can be open and executed in Binder which provides an executable environment without installing anything. To use them:
+The Jupyter notebooks can be open and executed in [Binder](https://mybinder.org/) which provides an executable environment without installing anything. To use them:
 
-1. Visit the following Link by clicking on it or this badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/le-martin/mab-jupyter-notebooks/HEAD). This can take up to five minutes.
+1. Start the binder instance with all the jupyter notebooks by clicking on this badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/le-martin/mab-jupyter-notebooks/HEAD). This can take up to five minutes.
 2. Move to the folder `notebooks`.
 3. Open the desired notebook, for instance: `ucb1_visualizer.ipynb`
 4. Execute the code and play around with the notebook! :)
